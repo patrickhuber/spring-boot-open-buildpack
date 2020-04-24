@@ -43,8 +43,10 @@ pack build --builder cloudfoundry/cnb:bionic -p demo demo
 
 ## Run the container
 
+[run script](run.ps1)
+
 Example: 
 
 ```
-docker run 
+docker run --rm --name demo -p 8080:8080 demo
 ```
