@@ -2,8 +2,8 @@
 
 ## Download dependencies
 
-[pack cli](https://github.com/buildpacks/pack/releases)
-[kpack cli]()
+* [pack cli](https://github.com/buildpacks/pack/releases)
+* [kpack cli]()
 
 ## Generate your Application
 
